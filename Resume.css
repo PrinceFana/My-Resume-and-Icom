@@ -1,0 +1,142 @@
+body{
+
+  background-color: linear-gradient(to right,#38EAF2, #1EE417);
+  background-image: linear-gradient(to right,#38EAF2, #1EE417);
+  border: 3px solid #020700;
+  width: 1348px;
+  height: 635px;
+}
+h1{
+  font-size: 25px;
+  font-weight: bolder;
+  font-stretch: extra-expanded;
+  font-size: 28px;
+  text-align: center;
+  color: black;
+}
+
+/*the button menu*/
+.button{
+  background-color: red;
+  border-radius: 20%;
+  color: black;
+  width: 48px;
+  height: 25px;
+  padding: 15px 50px;
+  position: absolute;
+  display: inline-block;
+  left: 450px;
+  bottom: 30px;
+
+}
+/*the button menu*/
+
+.button1{
+  background-color: blue;
+  border-radius: 20%;
+  color: black;
+  width: 48px;
+  height: 25px;
+  padding: 15px 50px;
+  position: absolute;
+  display: inline-block;
+  left: 800px;
+  bottom: 30px;
+}
+h3{
+  text-align: center;
+  font-size: 15px;
+}
+ol {
+  font-size: 13px;
+  font-family: fantasy;
+  font-weight: bolder;
+  top: 18px;
+  position: absolute;
+}
+ol li{
+  color: black;
+  font-family: monospace;
+}
+h4{
+  top:-15px;
+  color: white;
+  position: absolute;
+  font-style: oblique;
+  font-stretch: expanded;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+/*this is the about section*/
+.About{
+      position: absolute;
+      right: 280px;
+      width: 300px;
+      height: 200px;
+      border: 3px solid #73AD21;
+      padding: 17px 15px;
+
+    }
+
+.About1{
+          position: absolute;
+          right: 550px;
+          width: 250px;
+          border: 3px solid #73AD21;
+          padding: 7px;
+
+        }
+p{
+      color: black;
+      font-size: 15px;
+      text-decoration: none;
+      text-decoration-color: white;
+      padding-top: 15px;
+      font-family: monospace;
+    }
+
+img{
+  border-radius: 8px;
+  width: 250px;
+  height: 245px;
+  left: 360px;
+  position: absolute;
+}
+.Qualifications{
+  width: 105px;
+  height: 30px;
+  top: 455px;
+  position: absolute;
+  left: 290px;
+}
+/*these are the dividers used*/
+.vert1{
+  border-left: 5px solid white;
+  height: 100px;
+  left: 480px;
+  position: absolute;
+  top: 450px;
+}
+.vert2{
+  border-left: 5px solid white;
+  height: 100px;
+  left: 820px;
+  position: absolute;
+  top: 450px;
+}
+.interest{
+  width: 105px;
+  height: 30px;
+  top: 455px;
+  position: absolute;
+  left: 590px;
+}
+
+.History{
+  width: 105px;
+  height: 30px;
+  top: 455px;
+  position: absolute;
+  left: 890px;
+}
